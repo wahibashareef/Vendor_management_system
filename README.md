@@ -4,7 +4,7 @@ Installation:
 - Install dependencies using pip
 - Apply database migrations
 - Run the development server
-The API should now be accessible at 'http://localhost:8000/'.
+
 
 API Endpoints
 Vendor Profile Management
